@@ -4,7 +4,7 @@ Your AI-powered collaborative storytelling companion.
 
 ## Demo
 
-[![NarrateAI Demo](https://cdn.loom.com/sessions/thumbnails/d8928eeb69af4923a627cf8544ddfe0a-with-play.gif)](https://www.loom.com/share/d8928eeb69af4923a627cf8544ddfe0a)
+[![NarrateAI Demo] (https://cdn.loom.com/sessions/thumbnails/d8928eeb69af4923a627cf8544ddfe0a-with-play.gif)](https://www.loom.com/share/d8928eeb69af4923a627cf8544ddfe0a)
 
 ---
 
